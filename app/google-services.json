@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "927176874602",
+    "firebase_url": "https://rdt-scholarship.firebaseio.com",
+    "project_id": "rdt-scholarship",
+    "storage_bucket": "rdt-scholarship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927176874602:android:0937cd178ed28dc9",
+        "android_client_info": {
+          "package_name": "info.malli.rdt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927176874602-dfkicdb6vk8g0p4u4fjtnjnd4udmgjkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.malli.rdt",
+            "certificate_hash": "6cf560a77d744651010909e4b6acde9b766a0d32"
+          }
+        },
+        {
+          "client_id": "927176874602-k01bkg82b4k70qo2ih5ualocv8s7tu6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEPB7UjAD9NjGHSwoz9Qjv4DLQFM9v1pc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927176874602-k01bkg82b4k70qo2ih5ualocv8s7tu6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\project\\Final project\\rdt\\aFileChooser\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "D:\\project\\Final project\\rdt\\aFileChooser\\src\\main\\res\\values-v11\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 675,
+                        "endColumn": 53,
+                        "endOffset": 724
+                    }
+                }
+            }
+        ]
+    }
+]

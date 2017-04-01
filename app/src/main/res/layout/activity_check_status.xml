@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_check_status"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="info.malli.rdt.CheckStatusActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/et_check_aadhar"
+            android:layout_width="0dp"
+            android:layout_height="59dp"
+            android:layout_weight="3"
+            android:inputType="number"
+            android:digits="0123456789"
+            android:maxLength="12"
+            android:hint="Enter Aadhar Number: "
+            />
+        <Button
+            android:id="@+id/btn_check_aadhar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="CHECK"
+            />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_marginTop="20sp"
+        android:layout_gravity="center"
+        android:id="@+id/im_status"
+        android:layout_width="250sp"
+        android:maxHeight="150sp"
+        android:maxWidth="250sp"
+        android:scaleType="centerInside"
+        android:layout_height="150sp"
+        android:adjustViewBounds="true"/>
+    <TextView
+        android:layout_marginTop="20sp"
+        android:id="@+id/tv_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="30sp"
+        />
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"/>
+    <Button
+        android:id="@+id/go_back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go Back"/>
+</LinearLayout>

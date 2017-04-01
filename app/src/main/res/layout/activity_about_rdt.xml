@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_schorlarship"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="info.malli.rdt.ScholarshipActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="@android:color/background_light"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/about_rdt_image"
+            android:scaleType="fitStart"
+            android:adjustViewBounds="true"/>
+        <TextView
+            android:background="@drawable/tv_heading_background"
+            android:paddingTop="5sp"
+            android:layout_marginTop="5sp"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:text="ABOUT RDT"
+            android:textSize="30sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15sp"
+            android:textSize="20sp"
+            android:layout_gravity="right"
+            android:text="Rural Development Trust (RDT) has been carrying out need based welfare and integrated programs of development for rural poor and needy especially belonging to marginalized and underprivileged sections namely Scheduled Castes (SC), Scheduled Tribes (ST), Backward Castes (BC) and persons with disability (PWDs) during the past 46 years."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25sp"
+            android:textSize="20sp"
+            android:layout_gravity="right"
+            android:padding="5sp"
+            android:text="RDT is working in 3268 villages spread across 102 Revenue Mandals consisting of 63 in Ananthapuram, 22 in Kurnool, 1 in Guntur and 7 in Prakasam district of Andhra Pradesh State and 7 in Mahaboob Nagar, 2 in Nalgonda district of Telangana State. Among them, there are 257 villages belonging to Chenchu tribes of Nallamala forest spread across 29 Mandals in Kurnool, Mahaboobnagar, Prakasam and Nalgonda districts of Andhra Pradesh and Telangana States recently included in RDT’s programs. RDT project area is divided into 7 regions: Bukkarayasamudram (BKS), Bathalapalli, Kadiri, Uravakonda, Madakasira, Kalyandurg &amp; Srisailam."/>
+
+        <TextView
+            android:background="@drawable/tv_heading_background"
+            android:paddingTop="5sp"
+            android:layout_marginTop="5sp"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:text="RURAL HOSPITALS"
+            android:textSize="30sp"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/hospitals"
+            android:scaleType="fitStart"
+            android:adjustViewBounds="true"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25sp"
+            android:textSize="20sp"
+            android:layout_gravity="right"
+            android:padding="5sp"
+            android:text="RDT runs 2 general hospitals located at Bhathalapalli and Kalyandurg Mandals and a Care and Support Centre (CSC) also in Bhathalapalli for HIV/AIDS patients while WDT runs a general hospital at Kanekal.There is an exclusive Family Planning Centre run by is located at the outskirts of Ananthapuram district headquarters."/>
+        <TextView
+            android:background="@drawable/tv_heading_background"
+            android:paddingTop="5sp"
+            android:layout_marginTop="5sp"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:text="SPORTS"
+            android:textSize="30sp"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/cricket"
+            android:scaleType="fitStart"
+            android:adjustViewBounds="true"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25sp"
+            android:textSize="20sp"
+            android:layout_gravity="right"
+            android:padding="5sp"
+            android:text="Learning cultural skills such as singing, dancing, playing instruments etc., will not only give an opportunity for children belonging to marginalized sections to bring out their hidden talents but also getting a feeling of equality with others. They are enacting the role of various Gods, Goddesses, kings and queens which were once confined to children of privileged sections."/>
+
+    </LinearLayout>
+</ScrollView>

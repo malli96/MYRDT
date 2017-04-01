@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "D:\\project\\Final project\\rdt\\aFileChooser\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-pl\\values-pl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "D:\\project\\Final project\\rdt\\aFileChooser\\src\\main\\res\\values-pl\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 229,
+                        "endColumn": 50,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 57,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "D:\\project\\Final project\\rdt\\aFileChooser\\src\\main\\res\\values-pl\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 88,
+                        "endColumn": 55,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 79,
+                    "endOffset": 241
+                },
+                "from": {
+                    "file": "D:\\project\\Final project\\rdt\\aFileChooser\\src\\main\\res\\values-pl\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 281,
+                        "endColumn": 77,
+                        "endOffset": 356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 246,
+                    "endColumn": 84,
+                    "endOffset": 326
+                },
+                "from": {
+                    "file": "D:\\project\\Final project\\rdt\\aFileChooser\\src\\main\\res\\values-pl\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 145,
+                        "endColumn": 82,
+                        "endOffset": 225
+                    }
+                }
+            }
+        ]
+    }
+]
